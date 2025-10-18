@@ -1,12 +1,12 @@
 # StackOverflow-Post
 
-# Udemy: C# Intermediate: Classes, Interfaces and OOP
+### Udemy: C# Intermediate: Classes, Interfaces and OOP
 
-# Instructor: Hosh Hamedani
+#### Instructor: Hosh Hamedani
 
-# Section 2: CLASSES
+#### Section 2: Classes
 
-# Excercise 2: Design a StackOverflow Post
+#### Excercise 2: Design a StackOverflow Post
 
 Design a class called Post. 
 This class models a StackOverflow post. It should have properties for title, description and the date/time it was created. 
